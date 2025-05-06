@@ -1,5 +1,13 @@
 [Defina]
-Desejo aprofundar meus conhecimentos em **Relatorio Brundtland**; preciso de definições precisas e saber o que diz os
+Estou estudando para o concurso da SUSEP 2025 e
+Desejo aprofundar meus conhecimentos em: **
+
+2 Previdência complementar aberta.
+2.1 Conceito, finalidades e características gerais.
+2.2 Princípios básicos.
+2.3 Contribuição, acumulação de recursos, rentabilidade, carregamento, portabilidade, resgates, benefício, ciclo de renda.
+
+**; preciso de definições precisas e saber o que diz os
 principais autores sobre este assunto.
 
 Inicie com: "Em resumo, " (ou algo no mesmo sentido)... (que seja clara, objetiva e direta).
@@ -11,7 +19,7 @@ afirmações deles sobre o tema), diferenças fundamentais, motivação para a s
 desmistificar afirmações erradas e falsas afirmações sobre o tema.
 Se possível, para ajudar na visualização dos conceitos gere perguntas e respostas, fórmulas para resolução de diversos
 tipos de problemas / situações problema (nível elevado). Mosstre-me exemplos de uso.
-  
+
 Precisarei de um texto muito bem explicado que me traga conhecimento aprofundado. Aborde desde conceitos básicos até
 aplicações práticas, garantindo uma compreensão mais completa sobre o assunto.
 
@@ -47,6 +55,12 @@ Todos os índices devem remeter a âncoras.
 
 Atenção: Todas as tabelas devem conter no máximo 3 colunas (faça os ajustes necessários, mas mantenha a coesão e a
 coerência)
+
+O formato deve ser markdown com a melhor formatação principal atenção às dicas. Desejo utilizar no Docusaurus, aproveite
+o máximo dos recursos de formatação para uso no Docusaurus.
+
+Caso tenha no texto algum valor financeiro, como por exemplo R$ 10,00, eu quero que esteja entre os caracteres `` como
+por exemplo `R$ 10,00`. Para melhor legibilidade.
 
 Nas explicações crie um passo a passo para criação de projeto spring boot 3.4, em Java 21, lombok, application.yaml e
 maven para reforçar os conceitos e a explicação.
@@ -98,8 +112,16 @@ Não deixe de criar índice com âncora para cada pergunta.
 Dê, ao final, dicas para o candidato.
 
 [ QUESTÕES DE CONCURSO ]
-Ainda sobre o tema **Portaria PGR/MPU Nº 247/2023**
-Gostaria que criasse pelo menos 30 questões da CEBRASPE e pelo menos 10 exercícios da FGV e mais 10 de outras bancas (Dê
+Ainda sobre os temas **
+
+2 Previdência complementar aberta.
+2.1 Conceito, finalidades e características gerais.
+2.2 Princípios básicos.
+2.3 Contribuição, acumulação de recursos, rentabilidade, carregamento, portabilidade, resgates, benefício, ciclo de renda.
+
+
+**
+Gostaria que criasse pelo menos 30 questões da CEBRASPE (Dê
 os créditos para banca informando para qual concurso público a questão foi cobrada, banca e ano); Gere duas tabulações
 no início das linhas das alternativas.
 
@@ -107,22 +129,23 @@ Esses exercícios não podem, jamais, serem óbvios: devem ter sido cobrados pel
 CESGRANRIO e FGV recentemente e deve conter todas as "pegadinhas" que os examinadores costumam explorar. O conjunto de
 questões fornecidas devem, preferencialmente, exigir a capacidade de compreensão conceitual, capacidade de análise e
 aplicação prática do conceito (Todos os conceitos devem estar presentes no conjunto de questões). Prefiro concursos
-realizados para a Policia Federal, TCU, CGU, ABIN, Banco Central, MPU, MP, CNJ, TSE, CNMP, TCE e SENADO, e, quando fizer
-sentido, para o Concurso de Admissão à Carreira de Diplomata (CACD); nesta ordem. Explique a resposta (quando possível,
-explique por que as outras alternativas estão erradas). Se conseguir provas discursivas sobre o assunto, eu prefiro. Se
-possível gerar pelo menos 2 questões discursivas de cada banca. As questões discursivas devem ser transcritas
-integralmente, mantendo a formatação e a redação originais das provas. Os valores de cada item devem ser mantidos,
-refletindo a importância de cada parte na avaliação original. Agrupe as questões discurisvas por banca de concurso e ano
-de concurso de forma decrescente. Dê preferência em Gerar questões da CESPE/CEBRASPE ou FCC.Por favor, não deixe as
-respostas corretas destacadas em negrito, informe logo após a explicação qual é a resposta correta. entre o enunciado e
-as alternativas pule duas linhas; entre as alterativas e a explicação pule duas linhas.
+realizados para a SUSEP, Banco Central e, quando fizer sentido, para o Concurso de Admissão à Carreira de Diplomata (
+CACD); nesta ordem.
+Explique a resposta (quando possível, explique por que as outras alternativas estão erradas).
+Se conseguir provas discursivas sobre o assunto, eu prefiro. Se possível gerar pelo menos 2 questões discursivas de cada
+banca. As questões discursivas devem ser transcritas integralmente, mantendo a formatação e a redação originais das
+provas. Os valores de cada item devem ser mantidos, refletindo a importância de cada parte na avaliação original. Agrupe
+as questões discurisvas por banca de concurso e ano de concurso de forma decrescente.
+Dê preferência em Gerar questões da CESPE/CEBRASPE ou CESGRARIO.
+Por favor, não deixe as respostas corretas destacadas em negrito, informe logo após a explicação qual é a resposta
+correta. Entre o enunciado e as alternativas pule duas linhas; entre as alterativas e a explicação pule duas linhas.
 
 O ideal é que entre as questões sejam incluídas questões nas quais, para se chegar a resposta correta, o candidato saiba
-as interconexões entre as leis correlatas.
+as interconexões entre assuntos normas ou leis correlatas.
 
 Todos os índices devem remeter a âncoras, ter no nome o principal tópico e/ou assunto relavante no comando da questão.
 Não esqueça de explicar qual é/são os conceito ou os conceitos abordados na questão e os porquês das alternativa(as)
-erradas estem erradas.
+erradas estarem erradas.
 
 Não deixe de criar índice com âncora para cada Banca e pergunta.
 
@@ -131,7 +154,21 @@ Não esqueça de dar a melhor resposta para cada questão discursiva.
 Dê, ao final de cada questão discursiva, dicas para o candidato e, se possivel, mnemônicos usados por concursandos para
 entendimento do conceito principal da questão.
 
-A saída deverá ser em formato markdown com estilo de formatação para publicar no Docusaurus.
+
+Cada parágrafo, item (da norma ou questão), alínea deve ter uma linha a mais os
+separando.
+
+A saída deverá ser em formato markdown com estilo de formatação para publicar no Docusaurus. O markdown deve funcionar
+corretamente no docusaurus com a melhor configuração. Use details e "clique para ver o gabarito comentado" para o
+docusaurus.
+
+Como o docusaurus funciona como um blog, Recomendamos o uso de marcadores de truncagem (`<!-- truncate -->` ou
+`{/* truncate */}`) nos posts do blog para criar visualizações mais curtas nas listas paginadas do blog.
+
+
+Caso tenha no texto algum valor financeiro, como por exemplo R$ 10,00, eu quero que esteja entre os caracteres `` como
+por exemplo `R$ 10,00`. Para melhor legibilidade.
+
 
 [TRANSFORMANDO PDF DE LEI EM MARKDOWN]
 

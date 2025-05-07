@@ -2,10 +2,12 @@
 Estou estudando para o concurso da SUSEP 2025 e
 Desejo aprofundar meus conhecimentos em: **
 
-2 Previdência complementar aberta.
-2.1 Conceito, finalidades e características gerais.
-2.2 Princípios básicos.
-2.3 Contribuição, acumulação de recursos, rentabilidade, carregamento, portabilidade, resgates, benefício, ciclo de renda.
+5 Proteção Patrimonial Mutualista.
+5.1 Conceito, finalidades e características gerais.
+5.2 Rateio mutualista de despesas.
+5.3 Grupo de proteção patrimonial mutualista.
+5.4 Administradora de proteção patrimonial mutualista.
+5.5 Contrato de participação em grupo de proteção patrimonial mutualista.
 
 **; preciso de definições precisas e saber o que diz os
 principais autores sobre este assunto.
@@ -114,16 +116,16 @@ Dê, ao final, dicas para o candidato.
 [ QUESTÕES DE CONCURSO ]
 Ainda sobre os temas **
 
-2 Previdência complementar aberta.
-2.1 Conceito, finalidades e características gerais.
-2.2 Princípios básicos.
-2.3 Contribuição, acumulação de recursos, rentabilidade, carregamento, portabilidade, resgates, benefício, ciclo de renda.
-
+5 Proteção Patrimonial Mutualista.
+5.1 Conceito, finalidades e características gerais.
+5.2 Rateio mutualista de despesas.
+5.3 Grupo de proteção patrimonial mutualista.
+5.4 Administradora de proteção patrimonial mutualista.
+5.5 Contrato de participação em grupo de proteção patrimonial mutualista.
 
 **
-Gostaria que criasse pelo menos 30 questões da CEBRASPE (Dê
-os créditos para banca informando para qual concurso público a questão foi cobrada, banca e ano); Gere duas tabulações
-no início das linhas das alternativas.
+Crie pelo menos 30 questões da CEBRASPE (Dê os créditos para banca informando para qual concurso público a questão foi
+cobrada, banca e ano); Gere duas tabulações no início das linhas das alternativas.
 
 Esses exercícios não podem, jamais, serem óbvios: devem ter sido cobrados pelas bancas de concurso CESPE/CEBRASPE, FCC,
 CESGRANRIO e FGV recentemente e deve conter todas as "pegadinhas" que os examinadores costumam explorar. O conjunto de
@@ -154,7 +156,6 @@ Não esqueça de dar a melhor resposta para cada questão discursiva.
 Dê, ao final de cada questão discursiva, dicas para o candidato e, se possivel, mnemônicos usados por concursandos para
 entendimento do conceito principal da questão.
 
-
 Cada parágrafo, item (da norma ou questão), alínea deve ter uma linha a mais os
 separando.
 
@@ -165,10 +166,8 @@ docusaurus.
 Como o docusaurus funciona como um blog, Recomendamos o uso de marcadores de truncagem (`<!-- truncate -->` ou
 `{/* truncate */}`) nos posts do blog para criar visualizações mais curtas nas listas paginadas do blog.
 
-
 Caso tenha no texto algum valor financeiro, como por exemplo R$ 10,00, eu quero que esteja entre os caracteres `` como
 por exemplo `R$ 10,00`. Para melhor legibilidade.
-
 
 [TRANSFORMANDO PDF DE LEI EM MARKDOWN]
 

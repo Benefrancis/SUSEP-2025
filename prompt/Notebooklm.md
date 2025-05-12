@@ -1,14 +1,18 @@
 Seja bem detalhista nas explicações. Este áudio deve focar apenas na introdução e nos artigos do primeiro capítulo desta
 grande e importante lei, pois trata-se de uma série e este é o primeiro capítulo.
 
-
 Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo II desta
 grande e importante lei, pois trata-se de uma série e este é o segundo capítulo.
 
+Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo III desta
+grande e importante lei, pois trata-se de uma série e este é o terceiro capítulo.
+
+Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo IV desta
+grande e importante lei, pois trata-se de uma série e este é o quarto capítulo.
 
 
-
-
+Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo V desta
+grande e importante lei, pois trata-se de uma série e este é o quinto capítulo.
 
 
 

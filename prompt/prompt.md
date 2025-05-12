@@ -2,12 +2,16 @@
 Estou estudando para o concurso da SUSEP 2025 e
 Desejo aprofundar meus conhecimentos em: **
 
-5 Proteção Patrimonial Mutualista.
-5.1 Conceito, finalidades e características gerais.
-5.2 Rateio mutualista de despesas.
-5.3 Grupo de proteção patrimonial mutualista.
-5.4 Administradora de proteção patrimonial mutualista.
-5.5 Contrato de participação em grupo de proteção patrimonial mutualista.
+6.1 Decreto-lei nº 73/1966 e suas alterações.
+6.2 Decreto-lei nº 261/1967 e suas alterações.
+6.3 Lei nº 4.594/1964 e suas alterações.
+6.4 Lei complementar nº 109/2001 e suas alterações.
+6.5 Lei Complementar nº 126/2007 e suas alterações.
+6.6 Lei nº 14.430/2022 (arts. 2º a 17) e suas alterações.
+6.7 Lei 14.332/2022 e suas alterações.
+6.8 Lei nº 14.652/2023 e suas alterações.
+6.9 Lei nº 15.040/2024 e suas alterações.
+6.10 Lei Complementar nº 213/2025 e suas alterações.
 
 **; preciso de definições precisas e saber o que diz os
 principais autores sobre este assunto.
@@ -114,15 +118,11 @@ Não deixe de criar índice com âncora para cada pergunta.
 Dê, ao final, dicas para o candidato.
 
 [ QUESTÕES DE CONCURSO ]
-Ainda sobre os temas **
+Ainda sobre o tema **
 
-5 Proteção Patrimonial Mutualista.
-5.1 Conceito, finalidades e características gerais.
-5.2 Rateio mutualista de despesas.
-5.3 Grupo de proteção patrimonial mutualista.
-5.4 Administradora de proteção patrimonial mutualista.
-5.5 Contrato de participação em grupo de proteção patrimonial mutualista.
+Lei nº 15.040/2024
 
+E normas correlatas
 **
 Crie pelo menos 30 questões da CEBRASPE (Dê os créditos para banca informando para qual concurso público a questão foi
 cobrada, banca e ano); Gere duas tabulações no início das linhas das alternativas.
@@ -187,6 +187,21 @@ jurídico brasileiro..
 O formato deve ser markdown com a melhor formatação. Desejo utilizar no Docusaurus, aproveite ao máximo dos recursos de
 formatação para uso no Docusaurus. Cada parágrafo, item (da norma ou questão), alínea deve ter uma linha a mais os
 separando.
+
+Cada parágrafo, item (da norma ou questão), alínea deve ter uma linha a mais os
+separando.
+
+A saída deverá ser em formato markdown com estilo de formatação para publicar no Docusaurus. O markdown deve funcionar
+corretamente no docusaurus com a melhor configuração. Use details e "clique para ver o gabarito comentado" para o
+docusaurus.
+
+Como o docusaurus funciona como um blog, Recomendamos o uso de marcadores de truncagem (`<!-- truncate -->` ou
+`{/* truncate */}`) nos posts do blog para criar visualizações mais curtas nas listas paginadas do blog.
+
+Caso tenha no texto algum valor financeiro, como por exemplo R$ 10,00, eu quero que esteja entre os caracteres `` como
+por exemplo `R$ 10,00`. Para melhor legibilidade.
+
+
 
 [Organização de capítulos]
 Ajude-me com a organização dos capítulos, índice, âncoras e identação hierarquica. Gostaria de ter um índice apenas.

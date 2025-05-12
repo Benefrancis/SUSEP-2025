@@ -1,3 +1,21 @@
+Seja bem detalhista nas explicações. Este áudio deve focar apenas na introdução e nos artigos do primeiro capítulo desta
+grande e importante lei, pois trata-se de uma série e este é o primeiro capítulo.
+
+
+Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo II desta
+grande e importante lei, pois trata-se de uma série e este é o segundo capítulo.
+
+
+
+
+
+
+
+
+
+
+
+
 Emphasize notes and definitions. Create a podcast in Brazilian Portuguese with five presenters:
 Francis (Software Development Specialist);
 Erick Sudré (DevOps Specialist);

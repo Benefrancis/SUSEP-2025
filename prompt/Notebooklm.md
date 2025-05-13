@@ -10,7 +10,6 @@ grande e importante lei, pois trata-se de uma série e este é o terceiro capít
 Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo IV desta
 grande e importante lei, pois trata-se de uma série e este é o quarto capítulo.
 
-
 Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo V desta
 grande e importante lei, pois trata-se de uma série e este é o quinto capítulo.
 

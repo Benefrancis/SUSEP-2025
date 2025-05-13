@@ -1,19 +1,6 @@
 [Defina]
 Estou estudando para o concurso da SUSEP 2025 e
-Desejo aprofundar meus conhecimentos em: **
-
-6.1 Decreto-lei nº 73/1966 e suas alterações.
-6.2 Decreto-lei nº 261/1967 e suas alterações.
-6.3 Lei nº 4.594/1964 e suas alterações.
-6.4 Lei complementar nº 109/2001 e suas alterações.
-6.5 Lei Complementar nº 126/2007 e suas alterações.
-6.6 Lei nº 14.430/2022 (arts. 2º a 17) e suas alterações.
-6.7 Lei 14.332/2022 e suas alterações.
-6.8 Lei nº 14.652/2023 e suas alterações.
-6.9 Lei nº 15.040/2024 e suas alterações.
-6.10 Lei Complementar nº 213/2025 e suas alterações.
-
-**; preciso de definições precisas e saber o que diz os
+Desejo aprofundar meus conhecimentos em: **Leis de Morgan**; preciso de definições precisas e saber o que diz os
 principais autores sobre este assunto.
 
 Inicie com: "Em resumo, " (ou algo no mesmo sentido)... (que seja clara, objetiva e direta).
@@ -118,12 +105,7 @@ Não deixe de criar índice com âncora para cada pergunta.
 Dê, ao final, dicas para o candidato.
 
 [ QUESTÕES DE CONCURSO ]
-Ainda sobre o tema **
-
-Lei nº 15.040/2024
-
-E normas correlatas
-**
+Ainda sobre o tema **Leis de Morgan**
 Crie pelo menos 30 questões da CEBRASPE (Dê os créditos para banca informando para qual concurso público a questão foi
 cobrada, banca e ano); Gere duas tabulações no início das linhas das alternativas.
 

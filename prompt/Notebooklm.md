@@ -13,6 +13,8 @@ grande e importante lei, pois trata-se de uma série e este é o quarto capítul
 Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo V desta
 grande e importante lei, pois trata-se de uma série e este é o quinto capítulo.
 
+Seja bem detalhista nas explicações. Este áudio deve focar apenas nos artigos do capítulo VI desta
+grande e importante lei, pois trata-se de uma série e este é o sexto capítulo.
 
 
 

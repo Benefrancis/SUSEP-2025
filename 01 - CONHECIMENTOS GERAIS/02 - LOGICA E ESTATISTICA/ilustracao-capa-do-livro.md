@@ -1,4 +1,4 @@
-Com certeza! Uma capa memorável é crucial para atrair o leitor. Para o livro "O Livro dos Enigmas Tecidos no Destino", a
+Uma capa memorável objetivando atrair o leitor. Para o livro "O Livro dos Enigmas: Uma Aventura Matemática em Bagdá", a
 capa deve evocar mistério, sabedoria, romance e a beleza do Oriente antigo.
 
 ---
@@ -6,9 +6,7 @@ capa deve evocar mistério, sabedoria, romance e a beleza do Oriente antigo.
 **Cena para a Capa do Livro:**
 
 **Título Sugerido para a Capa (pode ser adaptado):**
-"O Livro dos Enigmas Tecidos no Destino"
-*ou*
-"Karim, o Desvendador: Uma Aventura Matemática em Bagdá"
+"O Livro dos Enigmas: Uma Aventura Matemática em Bagdá"
 
 **Descrição da Cena para a Capa:**
 
@@ -50,5 +48,5 @@ cultura oriental.
 
 ---
 
-Esta cena busca ser rica em detalhes sugestivos, permitindo que a IA ou o artista capture a essência da história em uma
+Esta cena busca ser rica em detalhes sugestivos. Capture a essência da história em uma
 única imagem impactante.

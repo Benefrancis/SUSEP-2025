@@ -1,6 +1,16 @@
 [Defina]
 Estou estudando para o concurso da SUSEP 2025 e
-Desejo aprofundar meus conhecimentos em: **Leis de Morgan**; preciso de definições precisas e saber o que diz os
+Desejo aprofundar meus conhecimentos em: **
+
+2 Noções de estatística.
+2.1 População e amostra.
+2.2 Histogramas e curvas de frequência.
+2.3 Medidas de posição: média, moda, mediana e separatrizes.
+2.4 Medidas de dispersão absoluta e relativa.
+2.5 Probabilidade condicional, independência.
+2.6 Variável aleatória e funções de distribuição.
+
+**; preciso de definições precisas e saber o que diz os
 principais autores sobre este assunto.
 
 Inicie com: "Em resumo, " (ou algo no mesmo sentido)... (que seja clara, objetiva e direta).
@@ -105,7 +115,17 @@ Não deixe de criar índice com âncora para cada pergunta.
 Dê, ao final, dicas para o candidato.
 
 [ QUESTÕES DE CONCURSO ]
-Ainda sobre o tema **Leis de Morgan**
+Ainda sobre o tema **
+
+2 Noções de estatística.
+2.1 População e amostra.
+2.2 Histogramas e curvas de frequência.
+2.3 Medidas de posição: média, moda, mediana e separatrizes.
+2.4 Medidas de dispersão absoluta e relativa.
+2.5 Probabilidade condicional, independência.
+2.6 Variável aleatória e funções de distribuição.
+
+**
 Crie pelo menos 30 questões da CEBRASPE (Dê os créditos para banca informando para qual concurso público a questão foi
 cobrada, banca e ano); Gere duas tabulações no início das linhas das alternativas.
 
@@ -182,8 +202,6 @@ Como o docusaurus funciona como um blog, Recomendamos o uso de marcadores de tru
 
 Caso tenha no texto algum valor financeiro, como por exemplo R$ 10,00, eu quero que esteja entre os caracteres `` como
 por exemplo `R$ 10,00`. Para melhor legibilidade.
-
-
 
 [Organização de capítulos]
 Ajude-me com a organização dos capítulos, índice, âncoras e identação hierarquica. Gostaria de ter um índice apenas.
@@ -540,4 +558,12 @@ Privacidade incorporada ao design; Visibilidade e transparência; Respeito pela 
 de ponta-a-ponta). Controles ISO 31700. Fluxo DevSecOps com Privacy by Design. Gestão de riscos à Privacidade com
 Privacy by Design. Tecnologias de Aprimoramento de Privacidade (PETs). Jornada do Usuário com Privacy by Design.
 
-
+[livro estilo malba taran]
+Juntei aqui todos os execícios gerados e uma magnifica ideia veio a minha cabeça: Escrever um conto no estilo malba
+tahan em "o homem que calculava". Consegue me ajudar nessa proeza? Gostaria que todos esses problemas previamente
+gerados estivessem no livro fazendo parte deste conto, pode decidir a ordem dos problemas para melhor ajuste do roteiro
+da estória. Não precisam necessariamente estarem agrupados por assunto matemático, mas a estória deve ter inicio, meio e
+fim com sususpence, amor, traição de amizade, reviravolta e um final feliz, épico e emocionante, uma história de
+disciplina e resiliência, linda como um tapete persa. Dê o seu melhor. Ao final de cada capítulo o personagem explicaria
+para algum outro personagem como chegou ao resultado do problema, assim nosso nobre leitor aprenderia um pouco mais de
+matemática. Faça divisão por capítulos eu vou pedindo para ir gerando os próximos até chegarmos ao final.

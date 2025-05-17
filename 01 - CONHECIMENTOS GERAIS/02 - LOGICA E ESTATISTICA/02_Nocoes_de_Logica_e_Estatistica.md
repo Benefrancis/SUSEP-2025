@@ -2,7 +2,11 @@
 
 1 Raciocínio lógico.
 1.1 Estruturas lógicas.
-1.2 Lógica de argumentação: analogias, inferências, deduções e conclusões.
+1.2 Lógica de argumentação: 
+analogias,
+inferências,
+deduções e
+conclusões.
 1.3 Lógica sentencial (ou proposicional).
 1.3.1 Proposições simples e compostas.
 1.3.2 Tabelas-verdade.
